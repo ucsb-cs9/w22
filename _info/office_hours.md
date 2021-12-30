@@ -14,10 +14,45 @@ Richert Wang
 
 # TAs
 
-TBD
+Lijuan Cheng
+* Lab Sections: 12pm, 1pm
+* Friday 9am - 11am
+* https://ucsb.zoom.us/j/84288396730
 
-# Learning Assistants
+Gautam Mundewadi
+* Lab Sections: 12pm, 1pm
+* Friday 11am - 1pm
+* https://ucsb.zoom.us/j/84288396730
 
-Parth Atre
+Xingbu Qin
+* Lab Sections: 9am, 10am, 11am
+* Wednesday 4pm - 5pm
+* https://ucsb.zoom.us/j/84288396730
 
-TBD
+Christos Zhangos
+* Lab Sections: 12pm
+* Thursday 6:30pm - 9:30pm
+* https://ucsb.zoom.us/j/84288396730
+
+# Undergraduate Learning Assistants (ULAs)
+
+Marianne Arriola
+* Lab Sections: 9am, 11am
+* TBD
+* https://ucsb.zoom.us/j/84288396730
+
+Priyanka Banerjee
+* Lab Sections: 11am
+* Tuesday 1pm - 3pm
+* https://ucsb.zoom.us/j/84288396730
+
+Annie Huang
+* Lab Sections: 9am, 10am
+* Thursday 11am - 1pm
+* https://ucsb.zoom.us/j/84288396730
+
+Guang Yang
+* Lab Sections: 10am, 1pm
+* Wednesday 2pm - 4pm
+* https://ucsb.zoom.us/j/84288396730
+
