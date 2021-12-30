@@ -38,7 +38,7 @@ Christos Zhangos
 
 Marianne Arriola
 * Lab Sections: 9am, 11am
-* TBD
+* Friday 3pm - 5pm
 * https://ucsb.zoom.us/j/84288396730
 
 Priyanka Banerjee
