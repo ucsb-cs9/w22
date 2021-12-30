@@ -13,7 +13,7 @@ Basic Facts
 * **Lecture**: Tu Th 3:30pm-4:45pm, CHEM 1171
 * **TAs**:  {{site.ta_list_full}} (contact via Piazza)
 * **ULAs**: {{site.mentors_list}} (contact via Piazza)
-* **Lab** (50 minute lab sections): Mondays 9am, 10am, 11am, 12pm, 1pm - SSMS 1301 (https://ucsb.zoom.us/j/84288396730)
+* **Lab** (50 minute lab sections): Mondays 9am, 10am, 11am, 12pm, 1pm - SSMS 1301 ([https://ucsb.zoom.us/j/84288396730](https://ucsb.zoom.us/j/84288396730))
 * **Office Hours**: See <https://ucsb-cs9.github.io/w22/info/office_hours/>
 
 # Required Resources
