@@ -13,7 +13,7 @@ Basic Facts
 * **Lecture**: Tu Th 3:30pm-4:45pm, CHEM 1171
 * **TAs**:  {{site.ta_list_full}} (contact via Piazza)
 * **ULAs**: {{site.mentors_list}} (contact via Piazza)
-* **Lab** (50 minute lab sections): Mondays 9am, 10am, 11am, 12pm, 1pm - SSMS 1301
+* **Lab** (50 minute lab sections): Mondays 9am, 10am, 11am, 12pm, 1pm - SSMS 1301 (https://ucsb.zoom.us/j/84288396730)
 * **Office Hours**: See <https://ucsb-cs9.github.io/w22/info/office_hours/>
 
 # Required Resources
@@ -87,8 +87,8 @@ I will consider late submissions / accommodations <strong>only</strong> for medi
 * The lowest quiz score will be dropped. There will not be any make ups for quizzes.
 * Two of the lowest homework scores will be dropped. Late homework submissions will not be accepted. However, even if you know you will not be able to submit a homework on time, I highly encourage you to complete it anyways since the homeworks will help prepare you for the quizzes and final exam.
 * All labs must be submitted by the due date. There will be a 24-hour late window open on Gradescope for each lab. Submissions during the late window period will have a **20%** deduction from your grade. We will only consider your most recent submission.
-  * I assign labs on Sundays and have them due the following Sunday (unless stated otherwise). I have considered making labs due on Friday, but decided to provide the weekend for extra flexibility to students that need it.
-  * However, I highly encourage students not to wait until the last-minute to complete lab assignments. We will not be available to provide assistance over the weekend, and there is a risk of encountering technical difficulties (internet outages for example) that prevent an on-time submission. **Please plan accordingly.**
+  * I assign labs on Sundays and have them due the following Sunday (unless stated otherwise). I have considered making labs due on Fridays instead of Sundays, but decided to provide the weekend for extra flexibility to students that need it.
+  * However, I **highly encourage** students not to wait until the last-minute to complete lab assignments. We will not be available to provide assistance over the weekend, and there is a risk of encountering technical difficulties (internet outages for example) that prevent an on-time submission. **Please plan accordingly.**
 
 Accommodations for disabilities
 -------------------------------
