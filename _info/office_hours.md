@@ -31,7 +31,7 @@ Xingbu Qin
 
 Christos Zhangos
 * Lab Sections: 12pm
-* Thursday 6:30pm - 9:30pm
+* Thursday 8am - 11am
 * https://ucsb.zoom.us/j/84288396730
 
 # Undergraduate Learning Assistants (ULAs)
