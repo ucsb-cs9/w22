@@ -43,7 +43,7 @@ Marianne Arriola
 
 Priyanka Banerjee
 * Lab Sections: 11am
-* Tuesday 1pm - 3pm
+* Tuesday 1pm - 3pm, Thursday 11am - 12pm
 * https://ucsb.zoom.us/j/84288396730
 
 Annie Huang
