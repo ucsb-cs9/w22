@@ -5,7 +5,7 @@ ready: true
 lecture_date: 2022-01-06 15:30:00.00-7:00
 ---
 
-Recorded Lecture: [1_6_21](https://drive.google.com/file/d/1qJ0LehYWnZTkWmppKrTeIeQp51L0VW15/view?usp=sharing)
+Recorded Lecture: [1_6_22](https://drive.google.com/file/d/1qJ0LehYWnZTkWmppKrTeIeQp51L0VW15/view?usp=sharing)
 
 # Python Lists
 
