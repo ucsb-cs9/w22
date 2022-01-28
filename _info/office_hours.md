@@ -25,7 +25,7 @@ Gautam Mundewadi
 * https://ucsb.zoom.us/j/84288396730
 
 Xingbu Qin
-* Lab Sections: 9am, 10am, 11am
+* Lab Sections: 9am, 10am, 11am (SSMS 1301)
 * Wednesday 4pm - 5pm
 * https://ucsb.zoom.us/j/84288396730
 
