@@ -47,12 +47,12 @@ Priyanka Banerjee
 * https://ucsb.zoom.us/j/84288396730
 
 Annie Huang
-* Lab Sections: 10am
-* TBD
+* Lab Sections: 9am, 10am
+* Thursday 11am - 1pm
 * https://ucsb.zoom.us/j/84288396730
 
 Guang Yang
-* Lab Sections: 10am
-* TBD
+* Lab Sections: 10am, 1pm
+* Wednesday 2pm - 4pm
 * https://ucsb.zoom.us/j/84288396730
 
