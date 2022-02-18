@@ -72,7 +72,7 @@ Your course grade will be determined as follows:
 | Grade Item                                    | Percentage of Final Grade |
 |-----------------------------------------------|---------------------------|
 | Quizzes                                       | 35 %                      |
-| Final (Thur 3/17), 4pm - 6pm, CHEM 1171       | 25 %                      |
+| Final (Thur 3/17), 4pm - 6pm, on Gradescope   | 25 %                      |
 | Homeworks                                     | 10 %                      |
 | Labs                                          | 30 %                      |
 
