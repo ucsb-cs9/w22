@@ -174,27 +174,3 @@ def test_postorder():
 	root.getRightChild().insertRight("F")
 	assert postorder(root) == "DBEFCA"
 ```
-
-# Binary Search Tree (BST)
-
-* Recall that a binary tree is a tree structure where a node may have at most two children
-* **Binary Search Trees (BST)** are binary trees that have the following property:
-	* Values that are less than the parent are found in the left subtree
-	* Values that are greater than the parent are found in the right subtree
-	* This is known as the **BST property**
-* Binary Search Trees are also one way to implement a **Map** Abstract Data Type
-	* A Map ADT maps keys to corresponding values
-	* Think of keys defining where in the BST structure a node gets inserted
-	* And each node has a corresponding value field
-	* Similar to how Python Dictionaries work on a high-level (but the underlying implementation between a Python Dictionary and BST are different (each with pros / cons))
-* Example: Inserting the following keys into a BST
-
-![BSTInsertion1.png](BSTInsertion1.png)
-
-* **Note:** Insertion order of elements affects the structure of the tree!
-* Example: Inserting the same elements in different order
-
-![BSTInsertion2.png](BSTInsertion2.png)
-![BSTInsertion3.png](BSTInsertion3.png)
-
-* **Also note:** inorder traversal in a BST will visit the nodes in order - try it out!
