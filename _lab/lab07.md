@@ -205,7 +205,7 @@ The `OrderQueue` class will be defined in `OrderQueue.py`. This priority queue i
 
 * `__init__(self)` - the constructor for the `OrderQueue` will simply initialize the Python List representing the MinHeap.
 
-Since it's possible to remove from an empty `OrderQueue`, we will create and raise an exception when this is done. You will define a `QueueEmptyException` class in `OrderQueue.py` that doesn't do anything except define an `Exception` object to raise when this happens (recall, we did do an example of defining basic Exception class types - you can refer to [lect06](https://ucsb-cs9.github.io/f21/lectures/lect06/) notes).
+Since it's possible to remove from an empty `OrderQueue`, we will create and raise an exception when this is done. You will define a `QueueEmptyException` class in `OrderQueue.py` that doesn't do anything except define an `Exception` object to raise when this happens (recall, we did do an example of defining basic Exception class types - you can refer to [lect06](https://ucsb-cs9.github.io/w22/lectures/lect06/) notes).
 
 In addition to the construction of the MinHeap in this class, two methods are required to be implemented:
 
