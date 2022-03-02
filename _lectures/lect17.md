@@ -5,12 +5,14 @@ ready: true
 lecture_date: 2022-03-01 15:30:00.00-7:00
 ---
 
-**Note: due to technical difficulties with my iPad, I'm linking the relevant BST lecture from Spring 2021 since I was unable to record my illustrations in today's lecture
+**Note: due to technical difficulties with my iPad, I'm linking the relevant BST lecture from Spring 2021 since I was unable to record my illustrations in today's lecture.**
 
+```
 Annoucements in today's lecture
 * h08 is due FRIDAY 3/11 @ 11:59pm PST.
 * Lab08 is due FRIDAY 3/11 @ 11:59pm PST
-* Lab08 is a larger lab where you will need to extensively test your code. I highly encourage everyone to start early and ask questions during our office hours / lab sections!**
+* Lab08 is a larger lab where you will need to extensively test your code, and many parts rely on each other. I highly encourage everyone to start early and ask questions during our office hours / lab sections!
+```
 
 Recorded Lecture: [3_1_22](https://drive.google.com/file/d/1M9CxA2IoO6GjeA5pmBn8lwnGSL2Fr1P1/view?usp=sharing)
 
