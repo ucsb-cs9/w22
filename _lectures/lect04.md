@@ -155,7 +155,7 @@ while True:
 		print(x/0)
 		break
 	except ZeroDivisionError:
-		print("Can't divide by zero - enter an int: ")
+		print("Can't divide by zero")
 	except Exception:
 		print("Input was not a number type. Enter a int: ")
 	print("Let's try again...")

@@ -156,7 +156,7 @@ class Courses:
 		self.courses = {}
 
 	def addStudent(self, student, courseNum):
-		# If no perm exists…
+		# If course doesn't exist... 
 		if self.courses.get(courseNum) == None:
 			self.courses[courseNum] = [student]
 		elif not student in self.courses.get(courseNum):
